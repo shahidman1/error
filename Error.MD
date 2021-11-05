@@ -1,3 +1,3 @@
 {
-  "کانال": "rubika://l.rubika.ir/PES_BOX"
+  "کانال": "rubika://l.rubika.ir/Likee_like"
 }
